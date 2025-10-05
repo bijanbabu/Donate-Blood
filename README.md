@@ -58,7 +58,7 @@ It bridges the gap between **donors**, **patients**, and **hospitals** — enabl
 
 ## 🧩 Installation & Setup
 
-### 🪜 Step-by-step Guide
+
 
 1. **Clone the Repository**
    ```bash
